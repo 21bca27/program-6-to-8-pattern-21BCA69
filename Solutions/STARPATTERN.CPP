@@ -1,4 +1,5 @@
-//21BCA11 :- PATTERN 2
+//21BCA11 :- PATTERN 2 // plese give exaple like n=2 print *
+							   * *
 
 #include<stdio.h>
 #include<conio.h>
